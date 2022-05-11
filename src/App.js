@@ -15,8 +15,8 @@ function App() {
         <NavBar />
         <Routes>
           <Route path='/ventapc-cliente' element={<ItemListContainer/>} />
-          <Route path='/Cart' element={<Cart/>} />
-          <Route path='/Adder' element={ <ProductAdderForm/>} />
+          <Route path='/ventapc-cliente/Cart' element={<Cart/>} />
+          <Route path='/ventapc-cliente/Adder' element={ <ProductAdderForm/>} />
         </Routes>
       </Router>
 
