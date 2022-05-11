@@ -11,10 +11,10 @@ function App() {
     <>
     <CartContextProvider>
 
-      <Router basename="/ventapc-cliente">
+      <Router >
         <NavBar />
         <Routes>
-          <Route path='/' element={<ItemListContainer/>} />
+          <Route path='/ventapc-cliente' element={<ItemListContainer/>} />
           <Route path='/Cart' element={<Cart/>} />
           <Route path='/Adder' element={ <ProductAdderForm/>} />
         </Routes>
