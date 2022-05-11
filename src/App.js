@@ -11,7 +11,7 @@ function App() {
     <>
     <CartContextProvider>
 
-      <Router>
+      <Router basename="/ventapc-cliente">
         <NavBar />
         <Routes>
           <Route path='/' element={<ItemListContainer/>} />
