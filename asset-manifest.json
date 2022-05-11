@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ventapc-cliente/static/css/main.58a23423.css",
+    "main.js": "/ventapc-cliente/static/js/main.327ac904.js",
+    "static/js/787.506dd8ed.chunk.js": "/ventapc-cliente/static/js/787.506dd8ed.chunk.js",
+    "index.html": "/ventapc-cliente/index.html",
+    "main.58a23423.css.map": "/ventapc-cliente/static/css/main.58a23423.css.map",
+    "main.327ac904.js.map": "/ventapc-cliente/static/js/main.327ac904.js.map",
+    "787.506dd8ed.chunk.js.map": "/ventapc-cliente/static/js/787.506dd8ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a23423.css",
+    "static/js/main.327ac904.js"
+  ]
+}
